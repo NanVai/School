@@ -1,0 +1,69 @@
+body {
+  margin: 0;
+  font-family: Arial,sans-serif;
+  background: #62B884;
+;
+
+}
+.logo{
+    border:none;
+    display:inline-block;
+    padding:8px 16px;
+    vertical-align:middle;
+    overflow:hidden;
+    text-decoration:inherit;
+    color:#492C51;
+    background-color:inherit;
+    text-align:center;
+    cursor:pointer;
+    white-space:nowrap;
+    font-size: 150%;
+}
+.facility{
+    float:left;
+  
+}
+.enquiry{
+    margin-left: auto
+    float right;
+}
+
+.main{
+    margin-top: auto;
+    top:50
+}
+.mybutton{
+    border:none;
+    display:inline-block;
+    padding:8px 16px;
+    vertical-align:middle;
+    overflow:hidden;
+    text-decoration:inherit;
+    color:#794A87;
+    background-color:inherit;
+    text-align:center;
+    cursor:pointer;
+    white-space:nowrap;
+    font-size: 95%;
+}
+.mybutton:hover{
+    box-shadow:0 6px  20px 0 #6D437A ;
+    
+}
+.mynav{
+        float: right;
+        list-style: none;
+        position: fixed;
+        display: flex;
+        background-color: inherit;
+    }
+.mynav li{
+    display: inline-block;
+    color: #000000;
+}
+.clear-fix{
+    display: inline-block;
+
+    list-style-type: none;
+    
+}
