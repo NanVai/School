@@ -55,7 +55,7 @@ body {
         list-style: none;
         position: fixed;
         display: flex;
-        background-color: inherit;
+        background-color: #91CDA9;
     }
 .mynav li{
     display: inline-block;
